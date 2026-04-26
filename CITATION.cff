@@ -1,9 +1,10 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "[YOUR_LAST_NAME]"
-  given-names: "[YOUR_FIRST_NAME]"
-  orcid: "https://orcid.org/0000-0000-0000-0000"
+- family-names: "Gullapalli"
+  given-names: "Chaitanya"
+- family-names: "Maruti"
+  given-names: "Harsha"
 title: "Haumea ARC-1 Training Solver"
 version: 1.0.0
 doi: 10.5281/zenodo.[PLACEHOLDER_ONCE_PUBLISHED]
