@@ -52,10 +52,10 @@ python -m solver.main
 
 ## Citation
 
-If you find this work useful in your research, please cite it using the following metadata:
+If you find this work useful in your research, please cite it as:
 
 ```text
-[INSERT_CITATION_HERE_FROM_ZENODO_OR_CITATION_CFF]
+Gullapalli, C., & Maruti, H. (2026). Haumea ARC-1 Training Solver (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19782111
 ```
 
 For more details, see the [CITATION.cff](CITATION.cff) file.
