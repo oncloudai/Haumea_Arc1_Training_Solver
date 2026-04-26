@@ -3,10 +3,10 @@ message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Gullapalli"
   given-names: "Chaitanya"
-- family-names: "Maruti"
-  given-names: "Harsha"
+- family-names: "Tadimati"
+  given-names: "Maruti Harsha"
 title: "Haumea ARC-1 Training Solver"
-version: 1.0.0
+version: 1.0.1
 doi: 10.5281/zenodo.19782111
 date-released: 2026-04-26
 url: "https://github.com/oncloudai/Haumea_Arc1_Training_Solver"
