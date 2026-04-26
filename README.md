@@ -67,7 +67,7 @@ python -m solver.main
 If you find this work useful in your research, please cite it as:
 
 ```text
-Gullapalli, C., & Tadimati, M. H. (2026). Haumea ARC-1 Training Solver (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.19782111
+Gullapalli, C., & Tadimati, M. H. (2026). Haumea ARC-1 Training Solver (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.19782111
 ```
 
 For more details, see the [CITATION.cff](CITATION.cff) file.
