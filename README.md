@@ -29,6 +29,18 @@ solver/
     └── topology/
 ```
 
+## Background
+
+This solver is based on the **Abstraction and Reasoning Corpus (ARC)** introduced by François Chollet:
+
+> Chollet, F. (2019). [On the Measure of Intelligence](https://arxiv.org/abs/1911.01547). arXiv preprint arXiv:1911.01547.
+
+## Note on Generalization & LLM Training
+
+This release provides a high-performance modular engine for the ARC-1 training set. It is important to note:
+- **Generalization:** Further work is required to achieve broad generalization across unseen tasks. This specific implementation focuses on the systematic composition of laws for a fixed dataset.
+- **LLM Training:** This codebase is particularly useful as a high-quality dataset of programmatic "laws" and reasoning steps, which can be used to fine-tune or train Large Language Models (LLMs) on structured reasoning and grid-based logic.
+
 ## Installation
 
 1. Clone the repository:
