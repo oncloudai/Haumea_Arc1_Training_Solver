@@ -1,3 +1,19 @@
+---
+license: mit
+task_categories:
+- reasoning
+- question-answering
+tags:
+- arc
+- logic
+- program-synthesis
+- reasoning
+- abstraction
+pretty_name: Haumea ARC-1 Programmatic Reasoning
+size_categories:
+- n<1K
+---
+
 # Haumea ARC-1 Training Solver
 
 A modular, law-based solver for the Abstraction and Reasoning Corpus (ARC-1) dataset. This solver successfully solves **400/400** training tasks from the ARC-1 dataset using a systematic composition of geometric, topological, and logical "laws."
