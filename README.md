@@ -1,8 +1,9 @@
 ---
 license: mit
 task_categories:
-- reasoning
 - question-answering
+- text-generation
+- other
 tags:
 - arc
 - logic
